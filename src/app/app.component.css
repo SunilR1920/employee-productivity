@@ -1,0 +1,39 @@
+
+.heading{
+    color: rgb(233, 230, 233);
+    text-align: center;
+    margin: 20vh 20px 20px ;
+    font-family: 'Kanit', sans-serif;
+}
+
+
+.card{
+    width: auto;
+    height: auto;
+    border-radius: 25px;
+    margin: 15px ;
+    padding: 15px;
+    background: transparent;
+    border: 1px solid rgb(170, 39, 221);
+
+}
+
+
+button{
+    color: beige;
+    background-image: linear-gradient(-45deg, rgb(180, 44, 243), rgb(198, 40, 246),rgb(236, 40, 246),rgb(245, 39, 248));
+    font-size: 1.3rem;
+}
+
+button:active,
+button:hover{
+    color: beige;
+    box-sizing: border-box;
+    background-image: linear-gradient(-45deg, rgb(180, 31, 249), rgb(184, 34, 229));
+    box-shadow: 5px solid rgb(214, 179, 249);
+}
+
+
+
+
+
